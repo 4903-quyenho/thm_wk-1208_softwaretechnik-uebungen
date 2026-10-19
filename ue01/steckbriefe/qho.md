@@ -10,4 +10,4 @@ Ich habe bereits Erfahrungen in Java und SQL machen können, möchte jedoch mein
 
 ## Das erwarte ich von der Veranstaltung
 
-…
+Ich erwarte, dass ich meine praktischen Kenntnisse in Softwareentwicklung vertiefen kann und lernen kann Softwareprojekte umzusetzen. 
